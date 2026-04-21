@@ -23,6 +23,9 @@
 
 </div>
 
+> [!IMPORTANT]
+> **Implementation Note**: This repository contains the core architecture and settings as described in the associated research paper. However, some code structures and experimental configurations have been slightly adjusted to facilitate educational study, modification, and independent testing. The codebase will be fully synchronized with the exact methodology presented in the manuscript upon the paper's final formal publication.
+
 ---
 
 ## 🎯 Project Overview
@@ -136,8 +139,8 @@ The network successfully categorizes 187-timestep waveforms into the AAMI recogn
 | # | Paper | Repository |
 |:-:|:------|:----------:|
 | 1 | Physics-Guided CNN-BiLSTM Solar Forecast | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Marco9249/Physics-Guided-CNN-BiLSTM-Solar) |
-| 2 | Physics-Informed State Space Model (PISSM) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Marco9249/PISSM-Solar-Forecasting) |
-| 3 | PISSM Cross-Attention Networks | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Marco9249/PISSM-CrossAttention-Solar) |
+| 2 | Physics-Informed State Space Model (PI-SSM) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Marco9249/PI-SSM-Solar-Forecasting) |
+| 3 | PI-SSM Cross-Attention Networks | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Marco9249/PI-SSM-CrossAttention-Solar) |
 | ... | ... | ... |
 | 6 | DeepAR Probabilistic Forecasting | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Marco9249/DeepAR-Probabilistic-Load-Forecasting) |
 | **7** | **ECG Arrhythmia Classification** *(this repo)* 🌟 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Marco9249/ECG-Arrhythmia-Classification-CNN) |
@@ -168,3 +171,4 @@ The network successfully categorizes 187-timestep waveforms into the AAMI recogn
 [![GitHub](https://img.shields.io/badge/GitHub-Marco9249-181717?style=for-the-badge&logo=github)](https://github.com/Marco9249)
 
 </div>
+
